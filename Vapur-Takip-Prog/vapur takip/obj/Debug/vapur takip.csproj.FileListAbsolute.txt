@@ -1,0 +1,96 @@
+C:\Users\eharu\OneDrive\Masaüstü\mrb bn şml\vapur takip\vapur takip\bin\Debug\vapur takip.exe.config
+C:\Users\eharu\OneDrive\Masaüstü\mrb bn şml\vapur takip\vapur takip\bin\Debug\vapur takip.exe
+C:\Users\eharu\OneDrive\Masaüstü\mrb bn şml\vapur takip\vapur takip\bin\Debug\vapur takip.pdb
+C:\Users\eharu\OneDrive\Masaüstü\mrb bn şml\vapur takip\vapur takip\obj\Debug\vapur takip.csproj.AssemblyReference.cache
+C:\Users\eharu\OneDrive\Masaüstü\mrb bn şml\vapur takip\vapur takip\obj\Debug\vapur takip.csproj.SuggestedBindingRedirects.cache
+C:\Users\eharu\OneDrive\Masaüstü\mrb bn şml\vapur takip\vapur takip\obj\Debug\vapur_takip.Form1.resources
+C:\Users\eharu\OneDrive\Masaüstü\mrb bn şml\vapur takip\vapur takip\obj\Debug\vapur_takip.Form2.resources
+C:\Users\eharu\OneDrive\Masaüstü\mrb bn şml\vapur takip\vapur takip\obj\Debug\vapur_takip.Properties.Resources.resources
+C:\Users\eharu\OneDrive\Masaüstü\mrb bn şml\vapur takip\vapur takip\obj\Debug\vapur takip.csproj.GenerateResource.cache
+C:\Users\eharu\OneDrive\Masaüstü\mrb bn şml\vapur takip\vapur takip\obj\Debug\vapur takip.csproj.CoreCompileInputs.cache
+C:\Users\eharu\OneDrive\Masaüstü\mrb bn şml\vapur takip\vapur takip\obj\Debug\vapur takip.exe
+C:\Users\eharu\OneDrive\Masaüstü\mrb bn şml\vapur takip\vapur takip\obj\Debug\vapur takip.pdb
+C:\Users\eharu\OneDrive\Masaüstü\deniz performans\vapur takip\vapur takip\bin\Debug\vapur takip.exe.config
+C:\Users\eharu\OneDrive\Masaüstü\deniz performans\vapur takip\vapur takip\bin\Debug\vapur takip.exe
+C:\Users\eharu\OneDrive\Masaüstü\deniz performans\vapur takip\vapur takip\bin\Debug\vapur takip.pdb
+C:\Users\eharu\OneDrive\Masaüstü\deniz performans\vapur takip\vapur takip\bin\Debug\EntityFramework.dll
+C:\Users\eharu\OneDrive\Masaüstü\deniz performans\vapur takip\vapur takip\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eharu\OneDrive\Masaüstü\deniz performans\vapur takip\vapur takip\bin\Debug\System.Data.SQLite.dll
+C:\Users\eharu\OneDrive\Masaüstü\deniz performans\vapur takip\vapur takip\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eharu\OneDrive\Masaüstü\deniz performans\vapur takip\vapur takip\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eharu\OneDrive\Masaüstü\deniz performans\vapur takip\vapur takip\bin\Debug\EntityFramework.xml
+C:\Users\eharu\OneDrive\Masaüstü\deniz performans\vapur takip\vapur takip\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eharu\OneDrive\Masaüstü\deniz performans\vapur takip\vapur takip\bin\Debug\System.Data.SQLite.xml
+C:\Users\eharu\OneDrive\Masaüstü\deniz performans\vapur takip\vapur takip\obj\Debug\vapur takip.csproj.AssemblyReference.cache
+C:\Users\eharu\OneDrive\Masaüstü\deniz performans\vapur takip\vapur takip\obj\Debug\vapur takip.csproj.SuggestedBindingRedirects.cache
+C:\Users\eharu\OneDrive\Masaüstü\deniz performans\vapur takip\vapur takip\obj\Debug\vapur_takip.Form1.resources
+C:\Users\eharu\OneDrive\Masaüstü\deniz performans\vapur takip\vapur takip\obj\Debug\vapur_takip.Form2.resources
+C:\Users\eharu\OneDrive\Masaüstü\deniz performans\vapur takip\vapur takip\obj\Debug\vapur_takip.Form3.resources
+C:\Users\eharu\OneDrive\Masaüstü\deniz performans\vapur takip\vapur takip\obj\Debug\vapur_takip.Form5.resources
+C:\Users\eharu\OneDrive\Masaüstü\deniz performans\vapur takip\vapur takip\obj\Debug\vapur_takip.Form6.resources
+C:\Users\eharu\OneDrive\Masaüstü\deniz performans\vapur takip\vapur takip\obj\Debug\vapur_takip.Properties.Resources.resources
+C:\Users\eharu\OneDrive\Masaüstü\deniz performans\vapur takip\vapur takip\obj\Debug\vapur takip.csproj.GenerateResource.cache
+C:\Users\eharu\OneDrive\Masaüstü\deniz performans\vapur takip\vapur takip\obj\Debug\vapur takip.csproj.CoreCompileInputs.cache
+C:\Users\eharu\OneDrive\Masaüstü\deniz performans\vapur takip\vapur takip\obj\Debug\vapur takip.csproj.CopyComplete
+C:\Users\eharu\OneDrive\Masaüstü\deniz performans\vapur takip\vapur takip\obj\Debug\vapur takip.exe
+C:\Users\eharu\OneDrive\Masaüstü\deniz performans\vapur takip\vapur takip\obj\Debug\vapur takip.pdb
+F:\deniz performans\vapur takip\vapur takip\bin\Debug\vapur takip.exe.config
+F:\deniz performans\vapur takip\vapur takip\bin\Debug\vapur takip.exe
+F:\deniz performans\vapur takip\vapur takip\bin\Debug\vapur takip.pdb
+F:\deniz performans\vapur takip\vapur takip\bin\Debug\EntityFramework.dll
+F:\deniz performans\vapur takip\vapur takip\bin\Debug\EntityFramework.SqlServer.dll
+F:\deniz performans\vapur takip\vapur takip\bin\Debug\System.Data.SQLite.dll
+F:\deniz performans\vapur takip\vapur takip\bin\Debug\System.Data.SQLite.EF6.dll
+F:\deniz performans\vapur takip\vapur takip\bin\Debug\System.Data.SQLite.Linq.dll
+F:\deniz performans\vapur takip\vapur takip\bin\Debug\EntityFramework.xml
+F:\deniz performans\vapur takip\vapur takip\bin\Debug\EntityFramework.SqlServer.xml
+F:\deniz performans\vapur takip\vapur takip\bin\Debug\System.Data.SQLite.xml
+F:\deniz performans\vapur takip\vapur takip\obj\Debug\vapur takip.csproj.AssemblyReference.cache
+F:\deniz performans\vapur takip\vapur takip\obj\Debug\vapur takip.csproj.SuggestedBindingRedirects.cache
+F:\deniz performans\vapur takip\vapur takip\obj\Debug\vapur_takip.Form1.resources
+F:\deniz performans\vapur takip\vapur takip\obj\Debug\vapur_takip.Form2.resources
+F:\deniz performans\vapur takip\vapur takip\obj\Debug\vapur_takip.Form3.resources
+F:\deniz performans\vapur takip\vapur takip\obj\Debug\vapur_takip.Form5.resources
+F:\deniz performans\vapur takip\vapur takip\obj\Debug\vapur_takip.Form6.resources
+F:\deniz performans\vapur takip\vapur takip\obj\Debug\vapur_takip.Form7.resources
+F:\deniz performans\vapur takip\vapur takip\obj\Debug\vapur_takip.Properties.Resources.resources
+F:\deniz performans\vapur takip\vapur takip\obj\Debug\vapur takip.csproj.GenerateResource.cache
+F:\deniz performans\vapur takip\vapur takip\obj\Debug\vapur takip.csproj.CoreCompileInputs.cache
+F:\deniz performans\vapur takip\vapur takip\obj\Debug\vapur takip.csproj.CopyComplete
+F:\deniz performans\vapur takip\vapur takip\obj\Debug\vapur takip.exe
+F:\deniz performans\vapur takip\vapur takip\obj\Debug\vapur takip.pdb
+F:\deniz performans\vapur takip\vapur takip\bin\Debug\Interop.WMPLib.dll
+F:\deniz performans\vapur takip\vapur takip\bin\Debug\AxInterop.WMPLib.dll
+F:\deniz performans\vapur takip\vapur takip\obj\Debug\Interop.WMPLib.dll
+F:\deniz performans\vapur takip\vapur takip\obj\Debug\AxInterop.WMPLib.dll
+F:\deniz performans\vapur takip\vapur takip\obj\Debug\vapur takip.csproj.ResolveComReference.cache
+E:\deniz performans\vapur takip\vapur takip\bin\Debug\vapur takip.exe.config
+E:\deniz performans\vapur takip\vapur takip\bin\Debug\vapur takip.exe
+E:\deniz performans\vapur takip\vapur takip\bin\Debug\vapur takip.pdb
+E:\deniz performans\vapur takip\vapur takip\bin\Debug\EntityFramework.dll
+E:\deniz performans\vapur takip\vapur takip\bin\Debug\EntityFramework.SqlServer.dll
+E:\deniz performans\vapur takip\vapur takip\bin\Debug\System.Data.SQLite.dll
+E:\deniz performans\vapur takip\vapur takip\bin\Debug\System.Data.SQLite.EF6.dll
+E:\deniz performans\vapur takip\vapur takip\bin\Debug\System.Data.SQLite.Linq.dll
+E:\deniz performans\vapur takip\vapur takip\bin\Debug\EntityFramework.xml
+E:\deniz performans\vapur takip\vapur takip\bin\Debug\EntityFramework.SqlServer.xml
+E:\deniz performans\vapur takip\vapur takip\bin\Debug\System.Data.SQLite.xml
+E:\deniz performans\vapur takip\vapur takip\bin\Debug\Interop.WMPLib.dll
+E:\deniz performans\vapur takip\vapur takip\bin\Debug\AxInterop.WMPLib.dll
+E:\deniz performans\vapur takip\vapur takip\obj\Debug\vapur takip.csproj.AssemblyReference.cache
+E:\deniz performans\vapur takip\vapur takip\obj\Debug\vapur takip.csproj.SuggestedBindingRedirects.cache
+E:\deniz performans\vapur takip\vapur takip\obj\Debug\Interop.WMPLib.dll
+E:\deniz performans\vapur takip\vapur takip\obj\Debug\AxInterop.WMPLib.dll
+E:\deniz performans\vapur takip\vapur takip\obj\Debug\vapur takip.csproj.ResolveComReference.cache
+E:\deniz performans\vapur takip\vapur takip\obj\Debug\vapur_takip.Form1.resources
+E:\deniz performans\vapur takip\vapur takip\obj\Debug\vapur_takip.Form2.resources
+E:\deniz performans\vapur takip\vapur takip\obj\Debug\vapur_takip.Form3.resources
+E:\deniz performans\vapur takip\vapur takip\obj\Debug\vapur_takip.Form5.resources
+E:\deniz performans\vapur takip\vapur takip\obj\Debug\vapur_takip.Form6.resources
+E:\deniz performans\vapur takip\vapur takip\obj\Debug\vapur_takip.Form7.resources
+E:\deniz performans\vapur takip\vapur takip\obj\Debug\vapur_takip.Properties.Resources.resources
+E:\deniz performans\vapur takip\vapur takip\obj\Debug\vapur takip.csproj.GenerateResource.cache
+E:\deniz performans\vapur takip\vapur takip\obj\Debug\vapur takip.csproj.CoreCompileInputs.cache
+E:\deniz performans\vapur takip\vapur takip\obj\Debug\vapur takip.csproj.CopyComplete
+E:\deniz performans\vapur takip\vapur takip\obj\Debug\vapur takip.exe
+E:\deniz performans\vapur takip\vapur takip\obj\Debug\vapur takip.pdb
